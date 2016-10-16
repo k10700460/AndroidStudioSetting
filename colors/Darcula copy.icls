@@ -1,0 +1,40 @@
+<scheme name="Darcula copy" version="142" parent_scheme="Darcula">
+  <option name="LINE_SPACING" value="1.0" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Ricty" />
+    <option name="EDITOR_FONT_SIZE" value="17" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
+  </font>
+  <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
+  <option name="CONSOLE_FONT_SIZE" value="14" />
+  <attributes>
+    <option name="LOGCAT_DEBUG_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="1976d2" />
+      </value>
+    </option>
+    <option name="LOGCAT_ERROR_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ef5350" />
+      </value>
+    </option>
+    <option name="LOGCAT_INFO_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="66bb6a" />
+      </value>
+    </option>
+    <option name="LOGCAT_VERBOSE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="bdbdbd" />
+      </value>
+    </option>
+    <option name="LOGCAT_WARNING_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ffa726" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

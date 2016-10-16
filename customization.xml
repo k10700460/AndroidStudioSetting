@@ -1,0 +1,56 @@
+<application>
+  <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="$Paste" is_action="true" action_type="-1" position="9">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="$Copy" is_action="true" action_type="-1" position="8">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="$Cut" is_action="true" action_type="-1" position="7">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="-1" position="6">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="$Redo" is_action="true" action_type="-1" position="5">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="$Undo" is_action="true" action_type="-1" position="4">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="SaveAll" is_action="true" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Find" is_action="true" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Toolbar Find Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="OpenFile" is_action="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Toolbar Find Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+  </component>
+</application>
