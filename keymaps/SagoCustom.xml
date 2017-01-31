@@ -27,6 +27,10 @@
   <action id="CompareTwoFiles" />
   <action id="Console.Execute.Multiline" />
   <action id="CopyElement" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="shift f9" />
+    <keyboard-shortcut first-keystroke="f6" />
+  </action>
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="Editor Redo">
@@ -69,6 +73,7 @@
     <keyboard-shortcut first-keystroke="f3" />
   </action>
   <action id="Images.Thumbnails.Hide" />
+  <action id="Move" />
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="ctrl down" />
   </action>
